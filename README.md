@@ -11,6 +11,8 @@
 
 - 💭I want to turn an idea into something real ![image](https://user-images.githubusercontent.com/84210050/126935626-75a04931-2940-404f-a9fb-696590576a3b.png)
 
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marincor&theme=gotham)
+
 # Languages and Tools
 - ![image](https://user-images.githubusercontent.com/84210050/126933791-ad829618-0f59-44ff-92ff-7c8fccdefea7.png) ![image](https://user-images.githubusercontent.com/84210050/126933808-3a6cd802-d246-4c8c-8863-6f6e36f21c70.png) ![image](https://user-images.githubusercontent.com/84210050/126933834-e9d3aaf1-55de-4ae1-a6c8-f8d238776ba3.png)
 
