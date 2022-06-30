@@ -15,14 +15,17 @@
 
 # Languages and Tools
 - ![image](https://user-images.githubusercontent.com/84210050/126933791-ad829618-0f59-44ff-92ff-7c8fccdefea7.png) ![image](https://user-images.githubusercontent.com/84210050/126933808-3a6cd802-d246-4c8c-8863-6f6e36f21c70.png) ![image](https://user-images.githubusercontent.com/84210050/126933834-e9d3aaf1-55de-4ae1-a6c8-f8d238776ba3.png) ![image](https://user-images.githubusercontent.com/84210050/132928388-5891baa4-846e-42e1-ab59-43e9bd495717.png)
- ![image](https://user-images.githubusercontent.com/84210050/131025073-3003479c-da7a-4057-a9e3-7a620431909b.png) ![image](https://user-images.githubusercontent.com/84210050/132928368-06d6f0af-5599-4d3e-836a-c7f8557ea066.png)  ![image](https://user-images.githubusercontent.com/84210050/150241690-0fcfcfff-ccf2-4f3b-a199-a4da4df04585.png)
+ ![image](https://user-images.githubusercontent.com/84210050/131025073-3003479c-da7a-4057-a9e3-7a620431909b.png) ![image](https://user-images.githubusercontent.com/84210050/132928368-06d6f0af-5599-4d3e-836a-c7f8557ea066.png)  ![image](https://user-images.githubusercontent.com/84210050/150241690-0fcfcfff-ccf2-4f3b-a199-a4da4df04585.png) ![image](https://user-images.githubusercontent.com/84210050/176577735-a40c1542-694d-4918-affc-2c52da64ff87.png)
 
 
 
 
 
 
-- ![image](https://user-images.githubusercontent.com/84210050/126935822-4167101e-18ef-4275-860b-c3bf20438e88.png)  ![image](https://user-images.githubusercontent.com/84210050/126936042-bbbcac1c-0b3a-44e4-b903-101be843e3c3.png) ![image](https://user-images.githubusercontent.com/84210050/126936218-358d8af4-9152-4a25-9231-8d174bfea289.png) ![image](https://user-images.githubusercontent.com/84210050/132049645-856d8dc0-50de-4e9d-9cf2-898210a1870a.png) ![image](https://user-images.githubusercontent.com/84210050/133351818-e898ddc9-50c0-4011-ac82-2d934f7fb530.png)
+
+- ![image](https://user-images.githubusercontent.com/84210050/176577691-de68daee-cbca-41c4-8008-5e365fcad766.png) ![image](https://user-images.githubusercontent.com/84210050/176577864-f078ba62-fd1e-4c95-8d36-fa9299adf5ef.png)
+
+
 
 
 
