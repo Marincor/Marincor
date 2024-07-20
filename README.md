@@ -1,4 +1,4 @@
-### Hello, my name is Gabriel
+### 
 ![image](https://user-images.githubusercontent.com/84210050/126929740-f2932660-b8ff-4581-a7ea-b54f8e954e26.png)
 <hr>
 
@@ -6,12 +6,6 @@
 <a href="mailto:gabriel.cmunivos@protonmail.com"> ![image](https://user-images.githubusercontent.com/84210050/126931575-1421d179-7e0d-490f-9561-d7e550f34a6b.png) </a>
 
 > ![image](https://i.pinimg.com/originals/68/92/23/689223b7c3b904639f0cc05b970315f6.gif) 
-
-- 🎯 Focus on Front-End Development
-
-- 💭I want to turn an idea into something real ![image](https://user-images.githubusercontent.com/84210050/126935626-75a04931-2940-404f-a9fb-696590576a3b.png)
-
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marincor&theme=gotham)
 
 # Languages and Tools
 - ![image](https://user-images.githubusercontent.com/84210050/126933791-ad829618-0f59-44ff-92ff-7c8fccdefea7.png) ![image](https://user-images.githubusercontent.com/84210050/126933808-3a6cd802-d246-4c8c-8863-6f6e36f21c70.png) ![image](https://user-images.githubusercontent.com/84210050/126933834-e9d3aaf1-55de-4ae1-a6c8-f8d238776ba3.png) ![image](https://user-images.githubusercontent.com/84210050/132928388-5891baa4-846e-42e1-ab59-43e9bd495717.png)
